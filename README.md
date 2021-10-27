@@ -5,4 +5,6 @@ I am a passionate developer and chess player who builds React/Vue apps, games an
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samuraininja360&title_color=0068ff&bg_color=0d1117&text_color=ffffff&layout=compact&hide_border=true)](https://github.com/nodexninja.gitihub.io)
 
-[Subscribe](https://www.youtube.com/channel/UC4c4iyvuy3vjBL9ffZ2928A)
+[Subscribe](https://www.youtube.com/channel/UC4c4iyvuy3vjBL9ffZ2928A?sub_confirmation=1)
+
+[Play](https://scratch.mit.edu/users/nodexninja)
